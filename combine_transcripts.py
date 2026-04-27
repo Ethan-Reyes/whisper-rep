@@ -1,7 +1,7 @@
 #this combines all the transcipts into one big file
 import os
 
-folder = r"C:\Users\Administrator\OneDrive\Documents\personal coding files\HTML-JS-CSS Projects\Website Project\Bill Scott Interview Recordings"
+folder = #change this to your path of your audio recordings
 
 combined_output = os.path.join(folder, "FULL_TRANSCRIPT.txt")
 
